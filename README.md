@@ -1,8 +1,8 @@
-# Player Villagers - CraftAttack Edition
+# Player Villagers
 
 A resource pack for the German CraftAttack server that transforms villagers into custom player-like NPCs.
 
-![With Resource Pack](img/with.png)
+![With Resource Pack](https://raw.githubusercontent.com/PalmarHealer/PlayerVillager/main/img/with.png)
 
 ---
 
@@ -18,7 +18,7 @@ This resource pack transforms Minecraft villagers into **player-like NPCs** with
 ## ✅ Requirements
 
 - **OptiFine** OR **[Entity Model Features (EMF)](https://modrinth.com/mod/entity-model-features)** + **[Entity Texture Features (ETF)](https://modrinth.com/mod/entitytexturefeatures)** Mods
-- Minecraft 1.14+ (1.21.10 tested)
+- Minecraft 1.21.10
 
 ---
 
@@ -26,17 +26,11 @@ This resource pack transforms Minecraft villagers into **player-like NPCs** with
 
 ### 1. Name a Villager
 1. Get a name tag
-2. Rename it at an anvil to one of the following names:
-   - **Basti** - Player model with Basti texture
-   - **Wache** - Guard model
-   - **Koch** - Chef model
-   - **HäftlingHugo** - Prisoner Hugo model
-   - **Häftling1** - Prisoner model
+2. Rename it at an anvil to one of the supported names
 3. Right-click on a villager with the name tag
 4. The villager will now have the corresponding player model!
 
-### 2. Reload Resources
-Press **F3 + T** in-game to reload resources after applying name tags.
+
 
 ---
 
@@ -49,6 +43,12 @@ Press **F3 + T** in-game to reload resources after applying name tags.
 | **Koch** | Kitchen Staff | `chef.png` |
 | **HäftlingHugo** | Prisoner Hugo | `haeftlinghugo.png` |
 | **Häftling1** | Prisoner | `haeftling1.png` |
+
+---
+
+## 🎨 You need a skin that isn't in this list yet?
+
+No problem. You can request your skin [here](https://forms.gle/8nPeiBFGUiZd5zgaA).
 
 ---
 
@@ -91,11 +91,11 @@ Created for the German CraftAttack server.
 
 ---
 
-# Player Villagers - CraftAttack Edition
+# Player Villagers
 
-Ein Resource Pack für den deutschen CraftAttack Server, das Dorfbewohnern benutzerdefinierte Spielermodelle verleiht.
+Ein Resource Pack für CraftAttack, das Dorfbewohnern benutzerdefinierte Spielermodelle verleiht.
 
-![Mit Resource Pack](img/with.png)
+![Mit Resource Pack](https://raw.githubusercontent.com/PalmarHealer/PlayerVillager/main/img/with.png)
 
 ---
 
@@ -111,7 +111,7 @@ Dieses Resource Pack verwandelt Minecraft-Dorfbewohner in **spieler-ähnliche NP
 ## ✅ Voraussetzungen
 
 - **OptiFine** ODER **[Entity Model Features (EMF)](https://modrinth.com/mod/entity-model-features)** + **[Entity Texture Features (ETF)](https://modrinth.com/mod/entitytexturefeatures)** Mods
-- Minecraft 1.14+ (1.21.10 getestet)
+- Minecraft 1.21.10
 
 ---
 
@@ -119,19 +119,12 @@ Dieses Resource Pack verwandelt Minecraft-Dorfbewohner in **spieler-ähnliche NP
 
 ### 1. Dorfbewohner benennen
 1. Besorge dir ein Namensschild
-2. Benenne es am Amboss in einen der folgenden Namen um:
-   - **Basti** - Spielermodell mit Basti-Textur
-   - **Wache** - Wächter-Modell
-   - **Koch** - Koch-Modell
-   - **HäftlingHugo** - Häftling Hugo Modell
-   - **Häftling1** - Häftling Modell
+2. Benenne es am Amboss in einen der Namen aus der Liste um.
 3. Rechtsklick auf einen Dorfbewohner mit dem Namensschild
 4. Der Dorfbewohner erhält nun das entsprechende Spielermodell!
 
-### 2. Ressourcen neu laden
-Drücke **F3 + T** im Spiel, um die Ressourcen nach dem Anbringen von Namensschildern neu zu laden.
-
 ---
+
 
 ## 📋 Verfügbare NPCs
 
@@ -142,6 +135,12 @@ Drücke **F3 + T** im Spiel, um die Ressourcen nach dem Anbringen von Namensschi
 | **Koch** | Küchenpersonal | `chef.png` |
 | **HäftlingHugo** | Häftling Hugo | `haeftlinghugo.png` |
 | **Häftling1** | Häftling | `haeftling1.png` |
+
+---
+
+## 🎨 Du möchtest ein Skin der noch nicht in der liste ist?
+
+Kein Problem. Du kannst deinen Skin [hier](https://forms.gle/8nPeiBFGUiZd5zgaA) einreichen.
 
 ---
 
