@@ -81,7 +81,8 @@ Created for the German CraftAttack server.
 
 ## 📄 License
 
-This resource pack is intended for personal use on the CraftAttack server.
+- Pack configs, models, and code are licensed under **GNU General Public License v3.0**.
+- The skin PNG files in `assets/minecraft/textures/entity/villager/custom/*.png` are **third-party assets** that are not owned by me and are **not covered by the GPL**. They remain the property of their respective owners. If you are a rights holder and want attribution changes or removal, please contact me.
 
 ---
 ---
@@ -173,4 +174,5 @@ Erstellt für den deutschen CraftAttack Server.
 
 ## 📄 Lizenz
 
-Dieses Resource Pack ist für den persönlichen Gebrauch auf dem CraftAttack Server bestimmt.
+- Pack-Konfigurationen, Modelle und Code stehen unter der **GNU General Public License v3.0**.
+- Die Skin-PNG-Dateien in `assets/minecraft/textures/entity/villager/custom/*.png` sind **fremde/bei Dritten liegende Assets**, die nicht von mir stammen und **nicht unter der GPL** stehen. Sie bleiben Eigentum der jeweiligen Urheber. Wenn Sie Rechteinhaber sind und eine Änderung der Nennung oder eine Entfernung wünschen, kontaktieren Sie mich bitte.
