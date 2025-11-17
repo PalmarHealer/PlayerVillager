@@ -1,5 +1,5 @@
 {
-  "texture": "textures/entity/villager/custom/bastighg.png",
+  "texture": "textures/entity/villager/custom/chef.png",
   "textureSize": [64, 64],
   "models": [
     {

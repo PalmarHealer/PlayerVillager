@@ -1,5 +1,5 @@
 {
-  "texture": "textures/entity/villager/custom/bastighg.png",
+  "texture": "textures/entity/villager/custom/skin.png",
   "textureSize": [64, 64],
   "models": [
     {

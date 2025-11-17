@@ -1,5 +1,5 @@
 {
-  "texture": "textures/entity/villager/custom/bastighg.png",
+  "texture": "textures/entity/villager/custom/haeftling1.png",
   "textureSize": [64, 64],
   "models": [
     {
@@ -98,22 +98,22 @@
           "translate": [-4, 22, 0],
           "boxes": [
             {
-              "coordinates": [-4, -10, -2, 4, 12, 4],
-              "uvNorth": [36, 52, 40, 64],
+              "coordinates": [-3, -10, -2, 3, 12, 4],
+              "uvNorth": [36, 52, 39, 64],
               "uvEast": [32, 52, 36, 64],
-              "uvSouth": [44, 52, 48, 64],
-              "uvWest": [40, 52, 44, 64],
-              "uvUp": [40, 52, 36, 48],
-              "uvDown": [44, 48, 40, 52]
+              "uvSouth": [43, 52, 46, 64],
+              "uvWest": [39, 52, 43, 64],
+              "uvUp": [39, 52, 36, 48],
+              "uvDown": [42, 48, 39, 52]
             },
             {
-              "coordinates": [-4, -10, -2, 4, 12, 4],
-              "uvNorth": [52, 52, 56, 64],
+              "coordinates": [-3, -10, -2, 3, 12, 4],
+              "uvNorth": [52, 52, 55, 64],
               "uvEast": [48, 52, 52, 64],
-              "uvSouth": [60, 52, 64, 64],
-              "uvWest": [56, 52, 60, 64],
-              "uvUp": [56, 52, 52, 48],
-              "uvDown": [60, 48, 56, 52],
+              "uvSouth": [59, 52, 62, 64],
+              "uvWest": [55, 52, 59, 64],
+              "uvUp": [55, 52, 52, 48],
+              "uvDown": [58, 48, 55, 52],
               "sizeAdd": 0.25
             }
           ]
@@ -124,22 +124,22 @@
           "translate": [4, 22, 0],
           "boxes": [
             {
-              "coordinates": [0, -10, -2, 4, 12, 4],
-              "uvNorth": [44, 20, 48, 32],
+              "coordinates": [0, -10, -2, 3, 12, 4],
+              "uvNorth": [44, 20, 47, 32],
               "uvEast": [40, 20, 44, 32],
-              "uvSouth": [52, 20, 56, 32],
-              "uvWest": [48, 20, 52, 32],
-              "uvUp": [48, 20, 44, 16],
-              "uvDown": [52, 16, 48, 20]
+              "uvSouth": [51, 20, 54, 32],
+              "uvWest": [47, 20, 51, 32],
+              "uvUp": [47, 20, 44, 16],
+              "uvDown": [50, 16, 47, 20]
             },
             {
-              "coordinates": [0, -10, -2, 4, 12, 4],
-              "uvNorth": [44, 36, 48, 48],
+              "coordinates": [0, -10, -2, 3, 12, 4],
+              "uvNorth": [44, 36, 47, 48],
               "uvEast": [40, 36, 44, 48],
-              "uvSouth": [52, 36, 56, 48],
-              "uvWest": [48, 36, 52, 48],
-              "uvUp": [48, 36, 44, 32],
-              "uvDown": [52, 32, 48, 36],
+              "uvSouth": [51, 36, 54, 48],
+              "uvWest": [47, 36, 51, 48],
+              "uvUp": [47, 36, 44, 32],
+              "uvDown": [50, 32, 47, 36],
               "sizeAdd": 0.25
             }
           ]
